@@ -1,0 +1,7 @@
+C:\Users\Yarden\Source\Repos\TipConnections\TipConnections\bin\Debug\TipConnections.exe.config
+C:\Users\Yarden\Source\Repos\TipConnections\TipConnections\bin\Debug\TipConnections.exe
+C:\Users\Yarden\Source\Repos\TipConnections\TipConnections\bin\Debug\TipConnections.pdb
+C:\Users\Yarden\Source\Repos\TipConnections\TipConnections\obj\Debug\TipConnections.csprojResolveAssemblyReference.cache
+C:\Users\Yarden\Source\Repos\TipConnections\TipConnections\obj\Debug\TipConnections.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\Source\Repos\TipConnections\TipConnections\obj\Debug\TipConnections.exe
+C:\Users\Yarden\Source\Repos\TipConnections\TipConnections\obj\Debug\TipConnections.pdb
